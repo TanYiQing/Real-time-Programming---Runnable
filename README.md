@@ -38,3 +38,4 @@ Please input y: 9
 ```
 
 ## Your Output/Result
+![](C:\Users\user\Documents\IntelliJ\tutorial-2-TanYiQing\images\Output.png)
